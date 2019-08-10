@@ -1,8 +1,3 @@
-#---------------------------------------------
-#--- Author         : Ahmet Ozlu
-#--- Mail           : ahmetozlu93@gmail.com
-#--- Date           : 2nd May 2018
-#---------------------------------------------
 
 import os
 import sys
