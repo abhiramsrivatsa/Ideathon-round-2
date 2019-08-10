@@ -1,8 +1,4 @@
-#----------------------------------------------
-#--- Author         : Ahmet Ozlu
-#--- Mail           : ahmetozlu93@gmail.com
-#--- Date           : 27th January 2018
-#----------------------------------------------
+
 
 import tensorflow as tf
 import csv
